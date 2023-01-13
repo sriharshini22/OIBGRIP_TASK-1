@@ -1,0 +1,36 @@
+body {
+  background-color: lavender;
+}
+table {
+  border: 1px solid palevioletred;
+  background-color: purple;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 190px;
+  align-items: center;
+}
+h1 {
+  color: black;
+  text-align: center;
+  margin-top: 30px;
+}
+
+input[type="button"] {
+  width: 100%;
+  padding: 20px 40px;
+  background-color: palevioletred;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
+
+input[type="text"] {
+  padding: 20px 30px;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  border: 2px solid purple;
+}
